@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1641971371 source:c:\users\ryann\documents\2a\c\projet\pendu\main.c
+	"lib_pendu.h"
+
+1641933331 c:\users\ryann\documents\2a\c\projet\pendu\lib_pendu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<unistd.h>
+
+1641682239 source:c:\users\ryann\documents\2a\c\projet\pendu\affichage_pendu.c
+	"lib_pendu.h"
+
+1641476131 source:c:\users\ryann\documents\2a\c\projet\pendu\nombre_random.c
+	"lib_pendu.h"
+
+1641932672 source:c:\users\ryann\documents\2a\c\projet\pendu\mot_random.c
+	"lib_pendu.h"
+
+1641475740 source:c:\users\ryann\documents\2a\c\projet\pendu\affichage_mot_vide.c
+	"lib_pendu.h"
+
+1641473944 source:c:\users\ryann\documents\2a\c\projet\pendu\comparer_caractere.c
+	"lib_pendu.h"
+
+1641680887 source:c:\users\ryann\documents\2a\c\projet\pendu\creer_mot_vide.c
+	"lib_pendu.h"
+
+1641683052 source:c:\users\ryann\documents\2a\c\projet\pendu\remplacer_mot.c
+	"lib_pendu.h"
+
+1641682124 source:c:\users\ryann\documents\2a\c\projet\pendu\verif_victoire.c
+	"lib_pendu.h"
+
+1641682189 source:c:\users\ryann\documents\2a\c\projet\pendu\verif_defaite.c
+	"lib_pendu.h"
+
+1641933325 source:c:\users\ryann\documents\2a\c\projet\pendu\entrer_lettre.c
+	"lib_pendu.h"
+

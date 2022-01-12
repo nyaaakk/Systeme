@@ -1,0 +1,9 @@
+upgrades:
+
+possibilite d ajouter ses propes mots au fichier texte
+
+possibilite de deviner le mot entier directement
+
+affichage des lettres deja utilisees sur le cote +
+empecher de rentrer une lettre deja dite
+
